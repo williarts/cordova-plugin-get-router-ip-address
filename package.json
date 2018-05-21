@@ -1,0 +1,54 @@
+{
+  "_from": "git+https://github.com/lucasnpinheiro/cordova-plugin-get-router-ip-address.git",
+  "_id": "cordova-plugin-get-router-ip-address@1.0.0",
+  "_inBundle": false,
+  "_location": "/cordova-plugin-get-router-ip-address",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "https://github.com/lucasnpinheiro/cordova-plugin-get-router-ip-address",
+    "rawSpec": "https://github.com/lucasnpinheiro/cordova-plugin-get-router-ip-address",
+    "saveSpec": "git+https://github.com/lucasnpinheiro/cordova-plugin-get-router-ip-address.git",
+    "fetchSpec": "https://github.com/lucasnpinheiro/cordova-plugin-get-router-ip-address.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/lucasnpinheiro/cordova-plugin-get-router-ip-address.git#95acd644985533ca332b94be14d9e5b520a5ac51",
+  "_spec": "https://github.com/lucasnpinheiro/cordova-plugin-get-router-ip-address",
+  "_where": "/Users/williarts/NetBeansProjects/Ionic/memo-app",
+  "author": {
+    "name": "Apache Software Foundation"
+  },
+  "bugs": {
+    "url": "https://github.com/vallieres/cordova-plugin-get-router-ip-address/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-get-router-ip-address",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "deprecated": false,
+  "description": "Cordova Get Router Ip Address Plugin",
+  "devDependencies": {},
+  "engines": {},
+  "homepage": "https://github.com/vallieres/cordova-plugin-get-router-ip-address#readme",
+  "keywords": [
+    "cordova",
+    "cordova-plugin-get-router-ip-address",
+    "get-router-ip-address"
+  ],
+  "license": "Apache-2.0",
+  "name": "cordova-plugin-get-router-ip-address",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vallieres/cordova-plugin-get-router-ip-address.git"
+  },
+  "scripts": {},
+  "version": "1.0.0"
+}
