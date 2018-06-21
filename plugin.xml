@@ -1,25 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
-    xmlns:android="http://schemas.android.com/apk/res/android"
-    id="com.vallieres.plugin.getrouteripaddress"
-    version="1.0.0">
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0" 
+    xmlns:android="http://schemas.android.com/apk/res/android" id="com.vallieres.plugin.getrouteripaddress" version="1.0.0">
 
     <name>GetRouterIPAddress</name>
     <description>
     	This plugin allows your application to retrieve the router's IP adress.
-	</description>
+    </description>
 
     <license>MIT</license>
 
     <keywords>local,ip,wifi,network,router</keywords>
 
-	<engines>
-		<engine name="cordova" version="&gt;=3.1.0" />
-	</engines>
+    <engines>
+        <engine name="cordova" version="&gt;=3.1.0" />
+    </engines>
 
     <js-module src="www/getrouteripaddress.js" name="getrouteripaddress">
-    	<clobbers target="window.getrouteripaddress" />
+        <clobbers target="window.getrouteripaddress" />
     </js-module>
 
     <!-- ios -->
